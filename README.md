@@ -10,7 +10,9 @@
 
 
 
-## Installing: 
+## Installing...
+    Note: Before you to use this repo Install this following commands:
 
-    Go to client folder and install this command: 
-    - $ npm install
+    1. Go to client folder and install this command: 
+        - $ npm install
+    2. 
