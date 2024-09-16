@@ -7,7 +7,8 @@ export const Login = () => {
     return (
         <>
 
-            <Container>
+            <Container lg>
+                
                 <Router>
                     <Switch>
                         <Route path=''/>
