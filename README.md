@@ -2,7 +2,11 @@
 
 ## Version: 
 
-### V0 Latest 
+### V1.1 Latest
+    Feature: 
+        - Log in Design 
+
+    - V0 
 
 
 
@@ -15,4 +19,9 @@
 
     1. Go to client folder and install this command: 
         - $ npm install
-    2. 
+    2. Go to client folder and install this command: 
+        - $ npm install react-bootstrap bootstrap
+    3. Go to client folder and install this command: 
+        - $ npm install react-icons --save
+    4. Go to client folder and install this command: 
+        - $ npm i react-router-dom
