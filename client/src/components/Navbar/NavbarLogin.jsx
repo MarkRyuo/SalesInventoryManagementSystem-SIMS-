@@ -1,5 +1,6 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
+import { BsBox } from "react-icons/bs";
 
 
 export const NavbarLogin = () => {
@@ -7,20 +8,13 @@ export const NavbarLogin = () => {
     return (
         <>
                 <Navbar className="bg-body-tertiary">
-                <Container>
-                    <Navbar.Brand href="#home">
-            <img
-              alt=""
-              src="/img/logo.svg"
-              width="30"
-              height="30"
-              className="d-inline-block align-top"
-            />{' '}
-            React Bootstrap
-          </Navbar.Brand>
-        </Container>
-      </Navbar>
-           
+                    <Container>
+                        <Navbar.Brand href="#home">
+                            <BsBox size={50}/>
+                            React Bootstrap
+                        </Navbar.Brand>
+                    </Container>
+                </Navbar>
         </>
     )
 }
