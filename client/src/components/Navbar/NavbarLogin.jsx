@@ -7,7 +7,7 @@ export const NavbarLogin = () => {
 
     return (
         <>
-                <Navbar className="bg-body-tertiary">
+                <Navbar bg='light'>
                     <Container>
                         <Navbar.Brand href="#home">
                             <BsBox size={50}/>
