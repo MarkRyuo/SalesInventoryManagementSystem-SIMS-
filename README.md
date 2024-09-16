@@ -19,4 +19,7 @@
 
     1. Go to client folder and install this command: 
         - $ npm install
-    2. 
+    2. Go to client folder and install this command: 
+        - $ npm install react-bootstrap bootstrap
+    3. Go to client folder and install this command: 
+        - $ npm install react-icons --save
