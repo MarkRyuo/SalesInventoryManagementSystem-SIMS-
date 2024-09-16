@@ -1,5 +1,4 @@
 import Container from 'react-bootstrap/Container';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom' ;
 
 
 export const Login = () => {
@@ -8,12 +7,11 @@ export const Login = () => {
         <>
 
             <Container lg>
-                
-                <Router>
-                    <Switch>
-                        <Route path=''/>
-                    </Switch>
-                </Router>
+                <Row>
+                    <Col>
+                        
+                    </Col>
+                </Row>
             </Container>
 
         </>
