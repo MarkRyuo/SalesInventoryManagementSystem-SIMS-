@@ -1,14 +1,16 @@
 import './App.css' ;
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom' ;
 
 
-function App() {
-  
+export const App = () => {
 
   return (
     <>
-      
+      <Router>
+          <Switch>
+              <Route path='/'/>
+          </Switch>
+      </Router>
     </>
   )
 }
-
-export default App
