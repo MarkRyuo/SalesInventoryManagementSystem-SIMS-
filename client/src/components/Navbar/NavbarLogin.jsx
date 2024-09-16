@@ -11,7 +11,7 @@ export const NavbarLogin = () => {
                     <Container>
                         <Navbar.Brand href="#home">
                             <BsBox size={50}/>
-                            React Bootstrap
+                            Sales Inventory Management System
                         </Navbar.Brand>
                     </Container>
                 </Navbar>

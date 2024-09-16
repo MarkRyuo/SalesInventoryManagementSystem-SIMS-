@@ -23,3 +23,5 @@
         - $ npm install react-bootstrap bootstrap
     3. Go to client folder and install this command: 
         - $ npm install react-icons --save
+    4. Go to client folder and install this command: 
+        - $ npm i react-router-dom
