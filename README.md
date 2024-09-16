@@ -2,7 +2,7 @@
 
 ## Version: 
 
-### V1.1 Latest
+### V1.2 Latest
     Feature: 
         - Log in Design
 
